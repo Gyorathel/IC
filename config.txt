@@ -1,0 +1,11 @@
+#Configuração do Config
+#######################
+#
+SIR
+Mi 100		#Valor do Heal, 0 = SIR, !0 = SIS
+Gama 100	#Valor da Recuperação Espontânea do SIS
+Alfa 100	#Valor da Infecção
+COR 0 		#1 = Contato, 0 = Reativo
+Lambda 100	#Valor da Recuperação Espontânea do UAU
+GraphSize 200 		#1 = Contato, 0 = Reativo
+#
